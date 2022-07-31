@@ -1,0 +1,14 @@
+{
+    "id": "/",
+    "scope": "/",
+    "name": "BudgetTracker",
+    "display": "standalone",
+    "start_url": "/",
+    "short_name": "BT",
+    "theme_color": "#FFFFF",
+    "description": "Budget Tracker",
+    "orientation": "any",
+    "background_color": "#0000"
+   
+  }
+  
